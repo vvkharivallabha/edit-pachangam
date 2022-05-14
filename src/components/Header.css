@@ -1,0 +1,11 @@
+ul {
+    list-style: none;
+    align-items: center;
+    justify-content: space-evenly;
+    display: inline-flex;
+    width: 100%;
+}
+
+ul li {
+    display: inline;
+}
