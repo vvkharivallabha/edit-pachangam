@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/edit-pachangam/static/css/main.5964271d.css",
+    "main.js": "/edit-pachangam/static/js/main.c7421127.js",
+    "static/js/787.808cee7c.chunk.js": "/edit-pachangam/static/js/787.808cee7c.chunk.js",
+    "index.html": "/edit-pachangam/index.html",
+    "main.5964271d.css.map": "/edit-pachangam/static/css/main.5964271d.css.map",
+    "main.c7421127.js.map": "/edit-pachangam/static/js/main.c7421127.js.map",
+    "787.808cee7c.chunk.js.map": "/edit-pachangam/static/js/787.808cee7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5964271d.css",
+    "static/js/main.c7421127.js"
+  ]
+}
