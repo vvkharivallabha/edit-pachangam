@@ -6,9 +6,9 @@ import "./Header.css";
 const Header: React.FC = () => {
     return (
         <ul>
-            <Link to="/">Home</Link>
+            <Link to="/edit-pachangam">Home</Link>
             <Routes>
-                <Route path="/" element={<FirebaseUI />} />
+                <Route path="/edit-pachangam" element={<FirebaseUI />} />
             </Routes>
         </ul>)
 }
